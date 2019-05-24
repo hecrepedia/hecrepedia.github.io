@@ -1,13 +1,15 @@
 <div id="top-nav">
   <ul>
-    <li>
-      <img src="/images/icons/hbird_square.PNG" onclick="toggleNav()">
+    <li style="background-color: transparent">
+      <img src="/images/icons/hbird_square.PNG" onclick="toggleNav()" width="48px" height="48px">
+    </li>
+    <li class="hid" style="height: 64px">
     </li>
     <li class="hid">
-      <a href="#">Home</a>
+      <a href="/">Home</a>
     </li>
     <li class="hid">
-      <a href="#">Animals</a>
+      <a href="/animal">Animals</a>
     </li>
     <li class="hid">
       <a href="#">Powers</a>
@@ -27,13 +29,14 @@
     min-height: 83px;
   }
 
-  nav #top-nav{
+  #top-nav{
     width: 100%;
     position: fixed;
-    top: 0
+    top: 0;
+    transform: translateY(-495px);
   }
 
-  nav ul {
+  #top-nav ul {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -41,66 +44,48 @@
     flex-direction: column
   }
 
-  nav li {
+  #top-nav li {
     display: flex;
     width: calc(100% - 16px);
     padding: 8px;
     justify-content: center;
+    transition: 0.3s;
+    background-color: #fff;
+    transform: translateY(24px)
   }
-
-  nav li.show {
-    animation: slideDown ease 0.3s forwards;
-  }
-
-  nav li:nth-child(even) {
-    background-color: #f8f8f8
-  }
-
-  nav li:last-child {
-    box-shadow: 0 1px 3px -1px rgba(0,0,0,0.25)
-  }
-
-  nav li.hidden {
-    animation: slideUp ease 0.3s forwards
-  }
-
   /* This is for when page loads */
-  nav li.hid {
-    transform: translateY(-400px)
-  }
+  #top-nav li.hid {transform: translateY(24px)}
+  #top-nav li.show {transform: translateY(415px)}
+  #top-nav li.hidden {transform: translateY(24px)}
 
-  nav a {
+  #top-nav li:nth-child(odd) {background-color: #f8f8f8}
+
+  #top-nav li:last-child {box-shadow: 0 1px 3px -1px rgba(0,0,0,0.25)}
+
+  #top-nav a {
     padding: 16px;
     font-family: sans-serif;
     color: #3a3a3a
   }
 
-  nav img {
+  #top-nav li:first-child {
+    z-index: 1;
+    transform: translateY(495px)
+  }
+
+  #top-nav img {
     width: 48px;
     border-radius: 50%;
     padding: 8px;
     background-color: #fff;
     box-shadow: 0 1px 3px rgba(0,0,0,0.25);
     transition: 0.3s;
-    z-index: 1
   }
 
-  nav img.nav-show {
-    transform: rotate(360deg)
-  }
+  #top-nav img.nav-show {transform: rotate(360deg)}
 
   /* Future responsive design for computer */
   @media only screen and (min-width: 480px) {
 
-  }
-
-  @keyframes slideDown {
-    0% {transform: translateY(-687px)}
-    100% {transform: translateY(0)}
-  }
-
-  @keyframes slideUp {
-    0% {transform: translateY(0)}
-    100% {transform: translateY(-400px)}
   }
 </style>

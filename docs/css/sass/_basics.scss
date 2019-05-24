@@ -8,9 +8,15 @@ body {
 p, h1, h2, h3, h4, h5, h6 {
   font-family: $font-primary;
   margin: 0;
+  color: #3a3a3a;
+
+  &.spaced {
+    padding: 0 $paddings $paddings $paddings
+  }
 }
 
 a {
+  font-family: $font-primary;
   color: inherit;
   text-decoration: none;
 }
@@ -31,6 +37,19 @@ a {
 
 .flex {
   display: flex;
+}
+
+// Overflow stuff
+.scroll {
+  overflow: scroll
+}
+
+.hidden {
+  overflow: hidden
+}
+
+.visible {
+  overflow: visible
 }
 
 // Position stuff
@@ -84,4 +103,14 @@ a {
 img {
   width: 100%;
   display: block;
+}
+
+// Lists
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul.no-style {
+  list-style: none;
 }
