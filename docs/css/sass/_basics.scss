@@ -35,6 +35,14 @@ a {
   display: inline;
 }
 
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
 .flex {
   display: flex;
 }
@@ -42,6 +50,14 @@ a {
 // Overflow stuff
 .scroll {
   overflow: scroll
+}
+
+.scroll-x {
+  overflow-x: scroll
+}
+
+.scroll-y {
+  overflow-y: scroll
 }
 
 .hidden {

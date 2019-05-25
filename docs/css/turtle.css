@@ -1720,8 +1720,36 @@ a {
   display: inline;
 }
 
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
 .flex {
   display: flex;
+}
+
+.scroll {
+  overflow: scroll;
+}
+
+.scroll-x {
+  overflow-x: scroll;
+}
+
+.scroll-y {
+  overflow-y: scroll;
+}
+
+.hidden {
+  overflow: hidden;
+}
+
+.visible {
+  overflow: visible;
 }
 
 .absolute {
@@ -2599,6 +2627,15 @@ a {
 img {
   width: 100%;
   display: block;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul.no-style {
+  list-style: none;
 }
 
 hr {
