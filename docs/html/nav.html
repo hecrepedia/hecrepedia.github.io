@@ -34,6 +34,7 @@
     position: fixed;
     top: 0;
     transform: translateY(-495px);
+    z-index: 1
   }
 
   #top-nav ul {
@@ -65,11 +66,12 @@
   #top-nav a {
     padding: 16px;
     font-family: sans-serif;
+    text-decoration: none;
     color: #3a3a3a
   }
 
   #top-nav li:first-child {
-    z-index: 1;
+    z-index: 2;
     transform: translateY(495px)
   }
 
@@ -83,9 +85,4 @@
   }
 
   #top-nav img.nav-show {transform: rotate(360deg)}
-
-  /* Future responsive design for computer */
-  @media only screen and (min-width: 480px) {
-
-  }
 </style>
