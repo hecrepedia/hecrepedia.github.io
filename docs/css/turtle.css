@@ -962,6 +962,10 @@
   background-color: #fff;
 }
 
+.background-color-dark-gray {
+  background-color: #3a3a3a;
+}
+
 .background-color-blue {
   background-color: #5bbbff;
 }
@@ -82710,6 +82714,10 @@
   border: 1 hidden #fff;
 }
 
+.border-1-hidden-dark-gray {
+  border: 1 hidden #3a3a3a;
+}
+
 .border-1-hidden-blue {
   border: 1 hidden #5bbbff;
 }
@@ -82720,6 +82728,10 @@
 
 .border-1-dotted-white {
   border: 1 dotted #fff;
+}
+
+.border-1-dotted-dark-gray {
+  border: 1 dotted #3a3a3a;
 }
 
 .border-1-dotted-blue {
@@ -82734,6 +82746,10 @@
   border: 1 dashed #fff;
 }
 
+.border-1-dashed-dark-gray {
+  border: 1 dashed #3a3a3a;
+}
+
 .border-1-dashed-blue {
   border: 1 dashed #5bbbff;
 }
@@ -82744,6 +82760,10 @@
 
 .border-1-solid-white {
   border: 1 solid #fff;
+}
+
+.border-1-solid-dark-gray {
+  border: 1 solid #3a3a3a;
 }
 
 .border-1-solid-blue {
@@ -82758,6 +82778,10 @@
   border: 1 double #fff;
 }
 
+.border-1-double-dark-gray {
+  border: 1 double #3a3a3a;
+}
+
 .border-1-double-blue {
   border: 1 double #5bbbff;
 }
@@ -82768,6 +82792,10 @@
 
 .border-1-groove-white {
   border: 1 groove #fff;
+}
+
+.border-1-groove-dark-gray {
+  border: 1 groove #3a3a3a;
 }
 
 .border-1-groove-blue {
@@ -82782,6 +82810,10 @@
   border: 1 ridge #fff;
 }
 
+.border-1-ridge-dark-gray {
+  border: 1 ridge #3a3a3a;
+}
+
 .border-1-ridge-blue {
   border: 1 ridge #5bbbff;
 }
@@ -82792,6 +82824,10 @@
 
 .border-1-inset-white {
   border: 1 inset #fff;
+}
+
+.border-1-inset-dark-gray {
+  border: 1 inset #3a3a3a;
 }
 
 .border-1-inset-blue {
@@ -82806,6 +82842,10 @@
   border: 1 outset #fff;
 }
 
+.border-1-outset-dark-gray {
+  border: 1 outset #3a3a3a;
+}
+
 .border-1-outset-blue {
   border: 1 outset #5bbbff;
 }
@@ -82816,6 +82856,10 @@
 
 .border-2-hidden-white {
   border: 2 hidden #fff;
+}
+
+.border-2-hidden-dark-gray {
+  border: 2 hidden #3a3a3a;
 }
 
 .border-2-hidden-blue {
@@ -82830,6 +82874,10 @@
   border: 2 dotted #fff;
 }
 
+.border-2-dotted-dark-gray {
+  border: 2 dotted #3a3a3a;
+}
+
 .border-2-dotted-blue {
   border: 2 dotted #5bbbff;
 }
@@ -82840,6 +82888,10 @@
 
 .border-2-dashed-white {
   border: 2 dashed #fff;
+}
+
+.border-2-dashed-dark-gray {
+  border: 2 dashed #3a3a3a;
 }
 
 .border-2-dashed-blue {
@@ -82854,6 +82906,10 @@
   border: 2 solid #fff;
 }
 
+.border-2-solid-dark-gray {
+  border: 2 solid #3a3a3a;
+}
+
 .border-2-solid-blue {
   border: 2 solid #5bbbff;
 }
@@ -82864,6 +82920,10 @@
 
 .border-2-double-white {
   border: 2 double #fff;
+}
+
+.border-2-double-dark-gray {
+  border: 2 double #3a3a3a;
 }
 
 .border-2-double-blue {
@@ -82878,6 +82938,10 @@
   border: 2 groove #fff;
 }
 
+.border-2-groove-dark-gray {
+  border: 2 groove #3a3a3a;
+}
+
 .border-2-groove-blue {
   border: 2 groove #5bbbff;
 }
@@ -82888,6 +82952,10 @@
 
 .border-2-ridge-white {
   border: 2 ridge #fff;
+}
+
+.border-2-ridge-dark-gray {
+  border: 2 ridge #3a3a3a;
 }
 
 .border-2-ridge-blue {
@@ -82902,6 +82970,10 @@
   border: 2 inset #fff;
 }
 
+.border-2-inset-dark-gray {
+  border: 2 inset #3a3a3a;
+}
+
 .border-2-inset-blue {
   border: 2 inset #5bbbff;
 }
@@ -82912,6 +82984,10 @@
 
 .border-2-outset-white {
   border: 2 outset #fff;
+}
+
+.border-2-outset-dark-gray {
+  border: 2 outset #3a3a3a;
 }
 
 .border-2-outset-blue {
@@ -82926,6 +83002,10 @@
   border: 3 hidden #fff;
 }
 
+.border-3-hidden-dark-gray {
+  border: 3 hidden #3a3a3a;
+}
+
 .border-3-hidden-blue {
   border: 3 hidden #5bbbff;
 }
@@ -82936,6 +83016,10 @@
 
 .border-3-dotted-white {
   border: 3 dotted #fff;
+}
+
+.border-3-dotted-dark-gray {
+  border: 3 dotted #3a3a3a;
 }
 
 .border-3-dotted-blue {
@@ -82950,6 +83034,10 @@
   border: 3 dashed #fff;
 }
 
+.border-3-dashed-dark-gray {
+  border: 3 dashed #3a3a3a;
+}
+
 .border-3-dashed-blue {
   border: 3 dashed #5bbbff;
 }
@@ -82960,6 +83048,10 @@
 
 .border-3-solid-white {
   border: 3 solid #fff;
+}
+
+.border-3-solid-dark-gray {
+  border: 3 solid #3a3a3a;
 }
 
 .border-3-solid-blue {
@@ -82974,6 +83066,10 @@
   border: 3 double #fff;
 }
 
+.border-3-double-dark-gray {
+  border: 3 double #3a3a3a;
+}
+
 .border-3-double-blue {
   border: 3 double #5bbbff;
 }
@@ -82984,6 +83080,10 @@
 
 .border-3-groove-white {
   border: 3 groove #fff;
+}
+
+.border-3-groove-dark-gray {
+  border: 3 groove #3a3a3a;
 }
 
 .border-3-groove-blue {
@@ -82998,6 +83098,10 @@
   border: 3 ridge #fff;
 }
 
+.border-3-ridge-dark-gray {
+  border: 3 ridge #3a3a3a;
+}
+
 .border-3-ridge-blue {
   border: 3 ridge #5bbbff;
 }
@@ -83008,6 +83112,10 @@
 
 .border-3-inset-white {
   border: 3 inset #fff;
+}
+
+.border-3-inset-dark-gray {
+  border: 3 inset #3a3a3a;
 }
 
 .border-3-inset-blue {
@@ -83022,6 +83130,10 @@
   border: 3 outset #fff;
 }
 
+.border-3-outset-dark-gray {
+  border: 3 outset #3a3a3a;
+}
+
 .border-3-outset-blue {
   border: 3 outset #5bbbff;
 }
@@ -83032,6 +83144,10 @@
 
 .border-4-hidden-white {
   border: 4 hidden #fff;
+}
+
+.border-4-hidden-dark-gray {
+  border: 4 hidden #3a3a3a;
 }
 
 .border-4-hidden-blue {
@@ -83046,6 +83162,10 @@
   border: 4 dotted #fff;
 }
 
+.border-4-dotted-dark-gray {
+  border: 4 dotted #3a3a3a;
+}
+
 .border-4-dotted-blue {
   border: 4 dotted #5bbbff;
 }
@@ -83056,6 +83176,10 @@
 
 .border-4-dashed-white {
   border: 4 dashed #fff;
+}
+
+.border-4-dashed-dark-gray {
+  border: 4 dashed #3a3a3a;
 }
 
 .border-4-dashed-blue {
@@ -83070,6 +83194,10 @@
   border: 4 solid #fff;
 }
 
+.border-4-solid-dark-gray {
+  border: 4 solid #3a3a3a;
+}
+
 .border-4-solid-blue {
   border: 4 solid #5bbbff;
 }
@@ -83080,6 +83208,10 @@
 
 .border-4-double-white {
   border: 4 double #fff;
+}
+
+.border-4-double-dark-gray {
+  border: 4 double #3a3a3a;
 }
 
 .border-4-double-blue {
@@ -83094,6 +83226,10 @@
   border: 4 groove #fff;
 }
 
+.border-4-groove-dark-gray {
+  border: 4 groove #3a3a3a;
+}
+
 .border-4-groove-blue {
   border: 4 groove #5bbbff;
 }
@@ -83104,6 +83240,10 @@
 
 .border-4-ridge-white {
   border: 4 ridge #fff;
+}
+
+.border-4-ridge-dark-gray {
+  border: 4 ridge #3a3a3a;
 }
 
 .border-4-ridge-blue {
@@ -83118,6 +83258,10 @@
   border: 4 inset #fff;
 }
 
+.border-4-inset-dark-gray {
+  border: 4 inset #3a3a3a;
+}
+
 .border-4-inset-blue {
   border: 4 inset #5bbbff;
 }
@@ -83128,6 +83272,10 @@
 
 .border-4-outset-white {
   border: 4 outset #fff;
+}
+
+.border-4-outset-dark-gray {
+  border: 4 outset #3a3a3a;
 }
 
 .border-4-outset-blue {
@@ -83142,6 +83290,10 @@
   border: 5 hidden #fff;
 }
 
+.border-5-hidden-dark-gray {
+  border: 5 hidden #3a3a3a;
+}
+
 .border-5-hidden-blue {
   border: 5 hidden #5bbbff;
 }
@@ -83152,6 +83304,10 @@
 
 .border-5-dotted-white {
   border: 5 dotted #fff;
+}
+
+.border-5-dotted-dark-gray {
+  border: 5 dotted #3a3a3a;
 }
 
 .border-5-dotted-blue {
@@ -83166,6 +83322,10 @@
   border: 5 dashed #fff;
 }
 
+.border-5-dashed-dark-gray {
+  border: 5 dashed #3a3a3a;
+}
+
 .border-5-dashed-blue {
   border: 5 dashed #5bbbff;
 }
@@ -83176,6 +83336,10 @@
 
 .border-5-solid-white {
   border: 5 solid #fff;
+}
+
+.border-5-solid-dark-gray {
+  border: 5 solid #3a3a3a;
 }
 
 .border-5-solid-blue {
@@ -83190,6 +83354,10 @@
   border: 5 double #fff;
 }
 
+.border-5-double-dark-gray {
+  border: 5 double #3a3a3a;
+}
+
 .border-5-double-blue {
   border: 5 double #5bbbff;
 }
@@ -83200,6 +83368,10 @@
 
 .border-5-groove-white {
   border: 5 groove #fff;
+}
+
+.border-5-groove-dark-gray {
+  border: 5 groove #3a3a3a;
 }
 
 .border-5-groove-blue {
@@ -83214,6 +83386,10 @@
   border: 5 ridge #fff;
 }
 
+.border-5-ridge-dark-gray {
+  border: 5 ridge #3a3a3a;
+}
+
 .border-5-ridge-blue {
   border: 5 ridge #5bbbff;
 }
@@ -83224,6 +83400,10 @@
 
 .border-5-inset-white {
   border: 5 inset #fff;
+}
+
+.border-5-inset-dark-gray {
+  border: 5 inset #3a3a3a;
 }
 
 .border-5-inset-blue {
@@ -83238,6 +83418,10 @@
   border: 5 outset #fff;
 }
 
+.border-5-outset-dark-gray {
+  border: 5 outset #3a3a3a;
+}
+
 .border-5-outset-blue {
   border: 5 outset #5bbbff;
 }
@@ -83248,6 +83432,10 @@
 
 .border-6-hidden-white {
   border: 6 hidden #fff;
+}
+
+.border-6-hidden-dark-gray {
+  border: 6 hidden #3a3a3a;
 }
 
 .border-6-hidden-blue {
@@ -83262,6 +83450,10 @@
   border: 6 dotted #fff;
 }
 
+.border-6-dotted-dark-gray {
+  border: 6 dotted #3a3a3a;
+}
+
 .border-6-dotted-blue {
   border: 6 dotted #5bbbff;
 }
@@ -83272,6 +83464,10 @@
 
 .border-6-dashed-white {
   border: 6 dashed #fff;
+}
+
+.border-6-dashed-dark-gray {
+  border: 6 dashed #3a3a3a;
 }
 
 .border-6-dashed-blue {
@@ -83286,6 +83482,10 @@
   border: 6 solid #fff;
 }
 
+.border-6-solid-dark-gray {
+  border: 6 solid #3a3a3a;
+}
+
 .border-6-solid-blue {
   border: 6 solid #5bbbff;
 }
@@ -83296,6 +83496,10 @@
 
 .border-6-double-white {
   border: 6 double #fff;
+}
+
+.border-6-double-dark-gray {
+  border: 6 double #3a3a3a;
 }
 
 .border-6-double-blue {
@@ -83310,6 +83514,10 @@
   border: 6 groove #fff;
 }
 
+.border-6-groove-dark-gray {
+  border: 6 groove #3a3a3a;
+}
+
 .border-6-groove-blue {
   border: 6 groove #5bbbff;
 }
@@ -83320,6 +83528,10 @@
 
 .border-6-ridge-white {
   border: 6 ridge #fff;
+}
+
+.border-6-ridge-dark-gray {
+  border: 6 ridge #3a3a3a;
 }
 
 .border-6-ridge-blue {
@@ -83334,6 +83546,10 @@
   border: 6 inset #fff;
 }
 
+.border-6-inset-dark-gray {
+  border: 6 inset #3a3a3a;
+}
+
 .border-6-inset-blue {
   border: 6 inset #5bbbff;
 }
@@ -83344,6 +83560,10 @@
 
 .border-6-outset-white {
   border: 6 outset #fff;
+}
+
+.border-6-outset-dark-gray {
+  border: 6 outset #3a3a3a;
 }
 
 .border-6-outset-blue {
@@ -83358,6 +83578,10 @@
   border: 7 hidden #fff;
 }
 
+.border-7-hidden-dark-gray {
+  border: 7 hidden #3a3a3a;
+}
+
 .border-7-hidden-blue {
   border: 7 hidden #5bbbff;
 }
@@ -83368,6 +83592,10 @@
 
 .border-7-dotted-white {
   border: 7 dotted #fff;
+}
+
+.border-7-dotted-dark-gray {
+  border: 7 dotted #3a3a3a;
 }
 
 .border-7-dotted-blue {
@@ -83382,6 +83610,10 @@
   border: 7 dashed #fff;
 }
 
+.border-7-dashed-dark-gray {
+  border: 7 dashed #3a3a3a;
+}
+
 .border-7-dashed-blue {
   border: 7 dashed #5bbbff;
 }
@@ -83392,6 +83624,10 @@
 
 .border-7-solid-white {
   border: 7 solid #fff;
+}
+
+.border-7-solid-dark-gray {
+  border: 7 solid #3a3a3a;
 }
 
 .border-7-solid-blue {
@@ -83406,6 +83642,10 @@
   border: 7 double #fff;
 }
 
+.border-7-double-dark-gray {
+  border: 7 double #3a3a3a;
+}
+
 .border-7-double-blue {
   border: 7 double #5bbbff;
 }
@@ -83416,6 +83656,10 @@
 
 .border-7-groove-white {
   border: 7 groove #fff;
+}
+
+.border-7-groove-dark-gray {
+  border: 7 groove #3a3a3a;
 }
 
 .border-7-groove-blue {
@@ -83430,6 +83674,10 @@
   border: 7 ridge #fff;
 }
 
+.border-7-ridge-dark-gray {
+  border: 7 ridge #3a3a3a;
+}
+
 .border-7-ridge-blue {
   border: 7 ridge #5bbbff;
 }
@@ -83440,6 +83688,10 @@
 
 .border-7-inset-white {
   border: 7 inset #fff;
+}
+
+.border-7-inset-dark-gray {
+  border: 7 inset #3a3a3a;
 }
 
 .border-7-inset-blue {
@@ -83454,6 +83706,10 @@
   border: 7 outset #fff;
 }
 
+.border-7-outset-dark-gray {
+  border: 7 outset #3a3a3a;
+}
+
 .border-7-outset-blue {
   border: 7 outset #5bbbff;
 }
@@ -83464,6 +83720,10 @@
 
 .border-8-hidden-white {
   border: 8 hidden #fff;
+}
+
+.border-8-hidden-dark-gray {
+  border: 8 hidden #3a3a3a;
 }
 
 .border-8-hidden-blue {
@@ -83478,6 +83738,10 @@
   border: 8 dotted #fff;
 }
 
+.border-8-dotted-dark-gray {
+  border: 8 dotted #3a3a3a;
+}
+
 .border-8-dotted-blue {
   border: 8 dotted #5bbbff;
 }
@@ -83488,6 +83752,10 @@
 
 .border-8-dashed-white {
   border: 8 dashed #fff;
+}
+
+.border-8-dashed-dark-gray {
+  border: 8 dashed #3a3a3a;
 }
 
 .border-8-dashed-blue {
@@ -83502,6 +83770,10 @@
   border: 8 solid #fff;
 }
 
+.border-8-solid-dark-gray {
+  border: 8 solid #3a3a3a;
+}
+
 .border-8-solid-blue {
   border: 8 solid #5bbbff;
 }
@@ -83512,6 +83784,10 @@
 
 .border-8-double-white {
   border: 8 double #fff;
+}
+
+.border-8-double-dark-gray {
+  border: 8 double #3a3a3a;
 }
 
 .border-8-double-blue {
@@ -83526,6 +83802,10 @@
   border: 8 groove #fff;
 }
 
+.border-8-groove-dark-gray {
+  border: 8 groove #3a3a3a;
+}
+
 .border-8-groove-blue {
   border: 8 groove #5bbbff;
 }
@@ -83536,6 +83816,10 @@
 
 .border-8-ridge-white {
   border: 8 ridge #fff;
+}
+
+.border-8-ridge-dark-gray {
+  border: 8 ridge #3a3a3a;
 }
 
 .border-8-ridge-blue {
@@ -83550,6 +83834,10 @@
   border: 8 inset #fff;
 }
 
+.border-8-inset-dark-gray {
+  border: 8 inset #3a3a3a;
+}
+
 .border-8-inset-blue {
   border: 8 inset #5bbbff;
 }
@@ -83560,6 +83848,10 @@
 
 .border-8-outset-white {
   border: 8 outset #fff;
+}
+
+.border-8-outset-dark-gray {
+  border: 8 outset #3a3a3a;
 }
 
 .border-8-outset-blue {
@@ -86616,6 +86908,7 @@ body {
 
 h1, h2, h3, h4, h5, h6, p {
   font-family: "sans-serif";
+  color: #3a3a3a;
 }
 
 .shadow, .card {
