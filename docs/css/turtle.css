@@ -600,7 +600,19 @@ p, h1, h2, h3, h4, h5, h6 {
   width: 90%;
 }
 
-.marg-1 {
+.mar-0 {
+  margin: 0;
+}
+
+.pad-0 {
+  padding: 0;
+}
+
+.bor-rad-0 {
+  border-radius: 0;
+}
+
+.mar-1 {
   margin: 4px;
 }
 
@@ -612,7 +624,7 @@ p, h1, h2, h3, h4, h5, h6 {
   border-radius: 4px;
 }
 
-.marg-2 {
+.mar-2 {
   margin: 8px;
 }
 
@@ -624,7 +636,7 @@ p, h1, h2, h3, h4, h5, h6 {
   border-radius: 8px;
 }
 
-.marg-3 {
+.mar-3 {
   margin: 16px;
 }
 
@@ -636,7 +648,7 @@ p, h1, h2, h3, h4, h5, h6 {
   border-radius: 16px;
 }
 
-.marg-4 {
+.mar-4 {
   margin: 32px;
 }
 
