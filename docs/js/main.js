@@ -2,15 +2,10 @@ main();
 
 function main() {
   loadStuff();
-  watchStuff();
 }
 
 function loadStuff() {
   $("nav").load("/docs/html/nav.html")
-}
-
-function watchStuff() {
-
 }
 
 // Click functions
